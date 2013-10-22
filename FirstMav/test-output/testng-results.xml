@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23710" started-at="2013-10-22T06:58:18Z" finished-at="2013-10-22T06:58:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23710" started-at="2013-10-22T06:58:18Z" finished-at="2013-10-22T06:58:42Z">
+      <class name="com.epam.Selenium">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.epam.Selenium@4fe3d81]" name="setUp" is-config="true" duration-ms="4170" started-at="2013-10-22T09:58:18Z" finished-at="2013-10-22T09:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRambler()[pri:0, instance:com.epam.Selenium@4fe3d81]" name="testRambler" duration-ms="19528" started-at="2013-10-22T09:58:23Z" finished-at="2013-10-22T09:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRambler -->
+      </class> <!-- com.epam.Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
